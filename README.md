@@ -6,6 +6,6 @@ This is a shopping list application using electron and javascript
 
 use **npm ci** after cloning repository or downloading
 
-For Windows use  **npm run package-win**
-For Mac use  **npm run package-mac**
-For Linux  **npm run package-linux**
+For Windows use  **npm run package-win**<br>
+For Mac use  **npm run package-mac**<br>
+For Linux  **npm run package-linux**<br>
